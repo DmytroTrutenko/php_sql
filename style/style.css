@@ -1,0 +1,34 @@
+.container{
+    margin: 0 150px;
+    width: 50%;
+    height: 100%;
+    background-color: rgb(224, 247, 239);
+    border: solid black 1px;
+}
+
+.container h1{
+    font-family: sans-serif;
+    letter-spacing: 5px;
+    color: rgb(25, 61, 20);
+    text-shadow: 2px 2px 2px rgb(9, 48, 14);
+    margin-left: 200px;
+}
+.container h2{
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    color: rgb(25, 61, 20);
+    margin-left: 50px;
+}
+
+input[type=submit] {
+    background-color: rgb(9, 48, 14);
+    border: none;
+    text-decoration: none;
+    color: white;
+    padding: 20px 25px;
+    margin: 20px 20px;
+    cursor: pointer;
+    border-radius: 10%;
+    font-size: 18px;
+ }
+
